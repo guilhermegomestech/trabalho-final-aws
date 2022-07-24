@@ -1,0 +1,13 @@
+br\com\cbf\repository\JogadorRepository.class
+br\com\cbf\repository\TransferenciaRepository.class
+br\com\cbf\CbfApplication.class
+br\com\cbf\controller\JogadorController.class
+br\com\cbf\model\Titulo.class
+br\com\cbf\model\TimeFutebol.class
+br\com\cbf\model\Campeonato.class
+br\com\cbf\model\Transferencia.class
+br\com\cbf\controller\TimeController.class
+br\com\cbf\repository\TimeRepository.class
+br\com\cbf\controller\TransferenciaController.class
+br\com\cbf\model\TituloTime.class
+br\com\cbf\model\Jogador.class
